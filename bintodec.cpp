@@ -13,13 +13,6 @@ while(a!=0){
     a = a /10;
     p = p*2; 
 }
-//     int decimal = 0, binary, remainder, product = 1;
-//   cin >> binary;
-//   while (binary != 0) {
-//     remainder = binary % 10;
-//     decimal = decimal + (remainder * product);
-//     binary = binary / 10;
-//     product *= 2;
-//   }
+
     cout<<"Answer:\n"<<dec<<endl;
 }
